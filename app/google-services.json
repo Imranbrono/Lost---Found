@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "549766130843",
+    "firebase_url": "https://lost-found-a90f8-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "lost-found-a90f8",
+    "storage_bucket": "lost-found-a90f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549766130843:android:df35a43d633a0b584aea3e",
+        "android_client_info": {
+          "package_name": "com.example.lost_found"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549766130843-a4s06v6lana17qdrkltc4misjonmhdcm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpaQ6LBgmF0XpDAyZH0BMW5wcLcOQxAhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549766130843-a4s06v6lana17qdrkltc4misjonmhdcm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
